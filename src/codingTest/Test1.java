@@ -26,8 +26,6 @@ public class Test1 {
             int midIdx = str.length() / 2;
             result = str.substring(midIdx - 1, midIdx + 2);
         }
-
-
         return result;
     }
 
