@@ -3,7 +3,7 @@ package codingTest;
 public class Test3 {
     public static void main(String[] args) {
         /*
-         * 주어진 문장에서 category 에 해당하는 모든 단어를 출력하세요
+         * 주어진 문장에서 category 에 해당하는 모든 단어를 출력하세요.
          *
          "When organizing items, always label each group with the appropriate
          category. category: books, category: electronics, category: clothing, category: kitchenware,
