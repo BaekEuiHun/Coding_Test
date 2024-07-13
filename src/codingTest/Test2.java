@@ -9,7 +9,7 @@ public class Test2 {
 //
 //        barkingDogProblem(true, 6) ==> "짖으면 안돼!!"
 //        barkingDogProblem(true, 7) ==> "든든하군!"
-//        barkingDogProblem(false, 5) ==> "든든하군!"
+//        barkingDogProblem(false, 5) ==> "든든하군 !"
         System.out.println(barkingDogProblem(true, 20));
     }
     static String barkingDogProblem(boolean barking, int hour) {
